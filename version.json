@@ -1,7 +1,7 @@
 {
-    "version":  "1.1.0",
-    "version_code":  10100,
+    "version":  "1.1.1",
+    "version_code":  10101,
     "cia_url":  "https://raw.githubusercontent.com/yukkurikasutera3/3ds-midi-player/update-channel/midiplayer.cia",
-    "cia_size":  3147200,
-    "cia_sha256":  "4589239f7ed7c98eccfcc12f8656b36ad74840d3d3cedd78b90f30943b0a3908"
+    "cia_size":  3149248,
+    "cia_sha256":  "1ae2191cd9c665284e90218eed3d97f9016c9e0b2ed5c78b4e5fe39440dc28ad"
 }
