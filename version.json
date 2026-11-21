@@ -1,7 +1,7 @@
 {
-  "version": "1.5.0",
-  "version_code": 10500,
-  "cia_url": "https://github.com/yukkurikasutera3/3ds-midi-player/releases/download/v1.5.0/midiplayer.cia",
+  "version": "1.5.1",
+  "version_code": 10501,
+  "cia_url": "https://github.com/yukkurikasutera3/3ds-midi-player/releases/download/v1.5.1/midiplayer.cia",
   "cia_size": 3234752,
-  "cia_sha256": "1416330978764a6659306edbb4348622d62d549a094384a509907092a1159ae3"
+  "cia_sha256": "a6f6bfb4475d86f98cd9b668a665753825143430c85f042d13635964d427b1e8"
 }
