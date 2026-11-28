@@ -1,7 +1,7 @@
 {
-  "version": "2.2.1",
-  "version_code": 20201,
-  "cia_url": "https://github.com/yukkurikasutera3/3ds-midi-player/releases/download/v2.2.1/midiplayer.cia",
-  "cia_size": 3242944,
-  "cia_sha256": "0ef39f0d64a01b12fba700cdc2b692a3f41db1a664fdbb77e99a14e302b13998"
+  "version": "2.3.3",
+  "version_code": 20303,
+  "cia_url": "https://github.com/yukkurikasutera3/3ds-midi-player/releases/download/v2.3.3/midiplayer.cia",
+  "cia_size": 3247040,
+  "cia_sha256": "76765fff97a2e39ac8d922b03ec50f79175c10902a8ebaab8736e619f1afa311"
 }
